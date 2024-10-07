@@ -53,7 +53,7 @@ Class : It is a template or blueprint or defination which is used to create obje
 Object : It is a real time entity .It is a instance of a class. It knows something and does something . When we create object , we create instance 
 
 =============================================================================================================================================================
-JDK :
-JRE :
-JVM :
+JDK : Java Development Kit which is used to execute the byte code after compilation
+JRE : Java Runtime Environment which contains lib files and class files to run the program .
+JVM : Java Virtual Machine which is the core component used that provides run time environment for java application
 ===============================================================================================================================================================
