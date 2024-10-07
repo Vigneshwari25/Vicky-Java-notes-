@@ -47,4 +47,8 @@ num ++ : Fetch the value and then increment
 
 ============================================================================================================================================================
 Switch statement : This statement is used to execute one block of code base on multiple cases and it is an alternative for if else-if 
+============================================================================================================================================================
+Class : It is a template or blueprint or defination which is used to create object and it defines the properties and behaviour that the object created from the class will have .
+
+Object : It is a real time entity . It knows something and does something . 
 
