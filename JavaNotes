@@ -1,0 +1,50 @@
+Java
+====== 
+Variable - It is like a container to store and access data while processing
+
+Data type - It specifies the type of date a variable can hold and operation that can be performed on it .
+Uses : 
+=======
+* Memory allocation
+* performance optimization
+
+Types :
+=======
+Primitive types :
+They are predefined by java and stored be values directly
+* Numeric type  :
+	>byte    -- > 0 -- > 8 bits
+	>short  -- > 0 -- > 2 bytes
+	>int      	-- > 0 -- > 4 bytes
+	>long   	-- > 0 -- > 8 bytes
+	
+* Non numeric type :
+	>boolean -- > false --> 1 bit (Size of a boolean is virtual machine dependent )
+	>char (Unicode characters) -- > 2 bytes 
+
+*Floating points :
+	>float      --> 0.0  --> 4 bytes
+	>double  --> 0.0  --> 8 bytes
+
+=============================================================================================================================================================
+Reference types or Non primitive types : String , arrays … They are objects and store by addresses .
+
+Rounding off Error : It happens when we are working with floating points due to the way of they are stored . They uses binary approximation to store decimal point which results in error . Better we can use big decimal or math.round().
+
+Literals - Fixed value that can be assigned to a variable 
+
+Type conversion -  Implicit conversion
+
+Type casting - Explicit conversion
+
+Type promotion - small size data type can be promoted to large size data type
+=====================================================================================================================================================================
+Operators - They are symbols that can be used to perform operations in java .
+Pre and post increment  :  Both behave differently when we fetch the value
+
+num ++ : Fetch the value and then increment
+++num : First increment and they fetch the value 
+
+============================================================================================================================================================
+Switch statement : This statement is used to execute one block of code base on multiple cases and it is an alternative for if else-if 
+
